@@ -3,9 +3,9 @@
 Chat simulator using Firebase with Google signIn
 
 
-## Screens Demo
+## Screen Demo
 
-<img src="demo.png" width="220" height="400"/> 
+<img src="demo.png" width="360" height="720"/> 
 
 ## Getting Started
 
