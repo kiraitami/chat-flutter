@@ -1,6 +1,11 @@
-# flutter_app_chat
+# Flutter Chat
 
-A Chat application.
+Chat simulator using Firebase with Google signIn
+
+
+## Screens Demo
+
+<img src="demo.png" width="220" height="400"/> 
 
 ## Getting Started
 
